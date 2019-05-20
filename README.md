@@ -1,6 +1,6 @@
 Floppy TMWeak chicken
 =========
-![image](https://scontent-yyz1-1.cdninstagram.com/vp/9bf30443765dc578347a7d01e45f56cf/5D5E5A1F/t51.2885-15/e35/s1080x1080/59881254_454042802080002_4310412563010633563_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com) <br >
+![image](https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-0/p160x160/48259065_212950126297646_8032398294531440640_n.jpg?_nc_cat=106&_nc_ht=scontent-hkg3-2.xx&oh=d8657909441b5ca9fadc5915a7b190ef&oe=5D63EABC) <br >
 A Floppy bird fork from **[@nebez](https://github.com/nebez/floppybird)**, we modify the assets and the difficulty.
 
 Reference
