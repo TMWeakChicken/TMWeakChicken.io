@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b9b82a32-3259-4758-9158-61b055b936bc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="272">
+              <caret line="460" column="21" lean-forward="true" selection-start-line="460" selection-start-column="21" selection-end-line="460" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -111,11 +110,6 @@
               <item name="TMWeakChicken.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="TMWeakChicken.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TMWeakChicken.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TMWeakChicken.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -170,12 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558348019867</updated>
       <workItem from="1558348021041" duration="6667000" />
-      <workItem from="1558664023040" duration="355000" />
+      <workItem from="1558664023040" duration="1487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7022000" />
+    <option name="totallyTimeSpent" value="8154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="341" y="23" width="1326" height="982" extended-state="0" />
@@ -188,7 +182,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.03452244" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21581921" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930955" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -274,8 +268,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="272">
+          <caret line="460" column="21" lean-forward="true" selection-start-line="460" selection-start-column="21" selection-end-line="460" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
