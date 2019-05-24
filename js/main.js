@@ -461,9 +461,9 @@ function playerScore()
    soundScore.stop();
    soundScore.play();
    setBigScore();
-   if (score % 10 === 0 && pipeheight > 100){
-       pipeheight -= 20;
-   }else if(score % 10 === 0 && pipeheight === 100 & gravity <= 0.5){
+   if (score % 3 === 0 && pipeheight > 100){
+       pipeheight -= 10;
+   }else if(score % 33 === 0 && pipeheight === 100 & gravity <= 0.5){
        gravity += 0.05;
    }
 }
