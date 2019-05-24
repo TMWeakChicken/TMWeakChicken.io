@@ -440,7 +440,10 @@ $("#replay").click(function() {
    //SWOOSH!
    soundSwoosh.stop();
    soundSwoosh.play();
-   
+
+    gravity = 0.25;
+    pipeheight = 200;
+
    //fade out the scoreboard
    $("#scoreboard").transition({ y: '-40px', opacity: 0}, 1000, 'ease', function() {
       //when that's done, display us back to nothing

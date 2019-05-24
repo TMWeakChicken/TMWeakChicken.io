@@ -1,13 +1,13 @@
-Floppy Bird
+Floppy TMWeak chicken
 =========
-Initially, I wanted to try recreating Flappy Bird in HTML5, using a canvas and recycling the assets from the old game.
+![image](https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-0/p160x160/48259065_212950126297646_8032398294531440640_n.jpg?_nc_cat=106&_nc_ht=scontent-hkg3-2.xx&oh=d8657909441b5ca9fadc5915a7b190ef&oe=5D63EABC) <br >
+A Floppy bird fork from **[@nebez](https://github.com/nebez/floppybird)**, we modify the assets and the difficulty.
 
-What I did instead is something way more primitive. This project uses nothing but good ol' div's for all the objects and graphics, will scale perfectly on almost any screen (mobile and desktop), is terribly unoptimized, laggy, and isn't nearly as fast as it would've been if I had just used a canvas instead. But here it is!
-
-Live App
-------------
-Check out a live preview of it over here:  
-http://nebez.github.io/floppybird/
+Reference
+---------
+老蛇村: https://www.facebook.com/groups/423163041550870/?ref=pages_profile_groups_tab&source_id=2076696632356020 <br >
+隨行醫生Dr Care: https://www.facebook.com/DrCareAi/ <br >
+drcareai: https://www.instagram.com/drcareai/ <br >
 
 Cool Stuff
 ---------
@@ -26,7 +26,7 @@ http://labs.aylien.com/flappy-bird/ - **[@mdibaiee/flappy-es](https://github.com
 
 Credits
 ------
-**[@aregowe](https://github.com/aregowe)** for optimizing all the assets
+**[@aregowe](https://github.com/aregowe)** and **[@TLKwan](https://twitter.com/torchic_255)** for optimizing the assets
 
 Notice
 =====
